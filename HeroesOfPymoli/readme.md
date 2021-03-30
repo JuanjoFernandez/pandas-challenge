@@ -1,7 +1,7 @@
 ![Heroes Of Pymoli](Resources/header.png)
 
 ## The projects consists of analyzing the data contained in [*purchase_data.csv*](Resources/purchase_data.csv) and obtain the following results:
-___________________________
+
 ### *Player count*
 - [ ] Report total number of players
 
