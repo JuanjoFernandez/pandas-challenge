@@ -17,9 +17,9 @@
 - [X] Percentage and Count of Other / Non-Disclosed
 
 ### *Purchasing Analysis (Gender)*
-- [ ] Purchase Count
+- [X] Purchase Count
 - [ ] Average Purchase Price
-- [ ] Total Purchase Value
+- [X] Total Purchase Value
 - [ ] Average Purchase Total per Person by Gender
 
 ### *Age Demographics*
