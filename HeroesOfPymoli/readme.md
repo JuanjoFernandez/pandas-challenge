@@ -3,18 +3,18 @@
 ## The projects consists of analyzing the data contained in [*purchase_data.csv*](Resources/purchase_data.csv) and obtain the following results:
 
 ### *Player count*
-- [ ] Report total number of players
+- [X] Report total number of players
 
 ### *Purchasing analysis*
-- [ ] Number of Unique Items
-- [ ] Average Purchase Price
-- [ ] Total Number of Purchases
-- [ ] Total Revenue
+- [X] Number of Unique Items
+- [X] Average Purchase Price
+- [X] Total Number of Purchases
+- [X] Total Revenue
 
 ### *Gender Demographics*
-- [ ] Percentage and Count of Male Players
-- [ ] Percentage and Count of Female Players
-- [ ] Percentage and Count of Other / Non-Disclosed
+- [X] Percentage and Count of Male Players
+- [X] Percentage and Count of Female Players
+- [X] Percentage and Count of Other / Non-Disclosed
 
 ### *Purchasing Analysis (Gender)*
 - [ ] Purchase Count
