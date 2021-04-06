@@ -18,7 +18,7 @@
 
 ### *Purchasing Analysis (Gender)*
 - [X] Purchase Count
-- [ ] Average Purchase Price
+- [X] Average Purchase Price
 - [X] Total Purchase Value
 - [ ] Average Purchase Total per Person by Gender
 

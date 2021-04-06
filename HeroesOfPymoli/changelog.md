@@ -9,3 +9,6 @@
 ### *03/30/2021*
 - Purchases analysis done
 - Analysis by gender finished
+
+### *04/06/2021*
+- Obtained average purchase by gender
