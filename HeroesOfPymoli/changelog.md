@@ -15,4 +15,5 @@
 
 ### *04/07/2021*
 - Reformatted the analysis by gender to be on a single table
-- Logic of the script is a bit confusing, created a new branch (aprroach_2) to clean it up
+- Logic of the script is confusing, created a new branch (aprroach_2) to clean it up
+- Done all calculation using new approach, much cleaner logic, ready to merge branch
