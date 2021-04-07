@@ -20,7 +20,7 @@
 - [X] Purchase Count
 - [X] Average Purchase Price
 - [X] Total Purchase Value
-- [ ] Average Purchase Total per Person by Gender
+- [X] Average Purchase Total per Person by Gender
 
 ### *Age Demographics*
 - [ ] Purchase Count
