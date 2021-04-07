@@ -12,3 +12,7 @@
 
 ### *04/06/2021*
 - Obtained average purchase by gender
+
+### *04/07/2021*
+- Reformatted the analysis by gender to be on a single table
+- Logic of the script is a bit confusing, created a new branch to clean it up
