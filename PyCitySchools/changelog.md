@@ -6,4 +6,4 @@
 
 - Created changelog and readme
 - Created file structure
-- Calculations done for some district analysis 
+- Calculations done for district analysis 

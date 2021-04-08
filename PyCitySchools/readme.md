@@ -12,9 +12,9 @@ ___
     - [X] Total Budget
     - [X] Average Math Score
     - [X] Average Reading Score
-    - [ ] % Passing Math (The percentage of students that passed math.)
-    - [ ] % Passing Reading (The percentage of students that passed reading.)
-    - [ ] % Overall Passing (The percentage of students that passed math and reading.)
+    - [X] % Passing Math (The percentage of students that passed math.)
+    - [X] % Passing Reading (The percentage of students that passed reading.)
+    - [X] % Overall Passing (The percentage of students that passed math and reading.)
 
 ## *School Summary*
 ___
