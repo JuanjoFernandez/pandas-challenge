@@ -1,4 +1,4 @@
-![School District Satistics](/Resources/header.jpg)
+![School District Satistics](Resources/header.jpg)
 
 # ***Changelog***
 
@@ -6,3 +6,4 @@
 
 - Created changelog and readme
 - Created file structure
+- Calculations done for some district analysis 

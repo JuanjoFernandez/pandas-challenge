@@ -1,17 +1,17 @@
-![School District Satistics](/Resources/header.jpg)
+![School District Satistics](Resources/header.jpg)
 
-## The project consists of analyzing the data contained in [*PyCitySchools_starter.csv*](Resources/PyCitySchools_starter.csv) and obtain the following results:
+## The project consists of analyzing the data contained in two csv files and obtain the following results:
 
 ## *District Summary* ##
 ___
 
 - Create a high level snapshot (in table form) of the district's key metrics, including:
 
-    - [ ] Total Schools
-    - [ ] Total Students
-    - [ ] Total Budget
-    - [ ] Average Math Score
-    - [ ] Average Reading Score
+    - [X] Total Schools
+    - [X] Total Students
+    - [X] Total Budget
+    - [X] Average Math Score
+    - [X] Average Reading Score
     - [ ] % Passing Math (The percentage of students that passed math.)
     - [ ] % Passing Reading (The percentage of students that passed reading.)
     - [ ] % Overall Passing (The percentage of students that passed math and reading.)
