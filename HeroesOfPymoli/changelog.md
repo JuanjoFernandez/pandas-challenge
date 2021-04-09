@@ -20,4 +20,13 @@
 
 ### *04/08/2021*
 - Created the binned by age dataframe
-    - [] need to compute the aggregated data
+    - [X] need to compute the aggregated data
+
+### *04/09/2021*
+- Computing the purchase analysis by age data
+- Age demographics calculations
+    - [ ] Debugging pending
+- Age demographics analysis is wrong should be under purchases analysis by age
+    - [X] Update comments to be more precise on the calculations performed
+    - [X] Insert new cell to perform age demographics analysis
+    - [X] Update readme with the calculations missing

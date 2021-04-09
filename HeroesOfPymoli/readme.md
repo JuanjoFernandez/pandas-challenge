@@ -23,10 +23,17 @@
 - [X] Average Purchase Total per Person by Gender
 
 ### *Age Demographics*
-- [ ] Purchase Count
-- [ ] Average Purchase Price
-- [ ] Total Purchase Value
-- [ ] Average Purchase Total per Person by Age Group
+- [X] Establish bins for ages
+- [X] Categorize the existing players using the age bins
+- [X] Calculate the numbers and percentages by age group
+- [X] Create a summary data frame to hold the results
+- [X] Display Age Demographics Table
+
+### *Purchasing Analysis (Age)*
+- [X] Purchase Count
+- [X] Average Purchase Price
+- [X] Total Purchase Value
+- [X] Average Purchase Total per Person by Age Group
 
 ### *Top purchases*
 

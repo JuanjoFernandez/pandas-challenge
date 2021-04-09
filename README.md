@@ -23,3 +23,6 @@
 ## **04/08/2021**
 - Created header, [readme](PyCitySchools/readme.md) and [changelog](PyCitySchools/changelog.md) for School District project
 - - Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
+
+## **04/09/2021**
+- Heroes of Pymoli purchase analysis by age
