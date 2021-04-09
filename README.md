@@ -11,5 +11,15 @@
 - Added header for readme
 - Created header, [readme](HeroesOfPymoli/readme.md) and [changelog](HeroesOfPymoli/changelog.md) for Heroes Of Pymoli
 
+## **03/30/2021**
+- Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
+
+## **04/06/2021**
+- Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
+
+## **04/07/2021**
+- Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
+
 ## **04/08/2021**
 - Created header, [readme](PyCitySchools/readme.md) and [changelog](PyCitySchools/changelog.md) for School District project
+- - Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)

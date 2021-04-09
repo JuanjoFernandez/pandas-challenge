@@ -17,3 +17,7 @@
 - Reformatted the analysis by gender to be on a single table
 - Logic of the script is confusing, created a new branch (aprroach_2) to clean it up
 - Done all calculation using new approach, much cleaner logic, ready to merge branch
+
+### *04/08/2021*
+- Created the binned by age dataframe
+    - [] need to compute the aggregated data
