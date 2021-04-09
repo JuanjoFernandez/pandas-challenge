@@ -31,3 +31,5 @@
     - [X] Insert new cell to perform age demographics analysis
     - [X] Update readme with the calculations missing
 - Top 5 spenders analysis completed
+- Top 5 items analysis done
+    - [ ] Debugging pending
