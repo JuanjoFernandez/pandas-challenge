@@ -30,3 +30,4 @@
     - [X] Update comments to be more precise on the calculations performed
     - [X] Insert new cell to perform age demographics analysis
     - [X] Update readme with the calculations missing
+- Top 5 spenders analysis completed

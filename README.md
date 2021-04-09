@@ -26,3 +26,4 @@
 
 ## **04/09/2021**
 - Heroes of Pymoli purchase analysis by age
+- Heroes of Pymoli top 5 spenders

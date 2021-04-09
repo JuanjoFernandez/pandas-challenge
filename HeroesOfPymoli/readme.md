@@ -27,7 +27,7 @@
 - [X] Categorize the existing players using the age bins
 - [X] Calculate the numbers and percentages by age group
 - [X] Create a summary data frame to hold the results
-- [X] Display Age Demographics Table
+- [X    ] Display Age Demographics Table
 
 ### *Purchasing Analysis (Age)*
 - [X] Purchase Count
@@ -37,5 +37,5 @@
 
 ### *Top purchases*
 
-- [ ] Table with the 5 top spenders including: SN, Purchase Count, Average Purchase Price, Total Purchase Value
-- [ ] Table with the 5 Most Popular Items by purchase count including: Item ID, Item Name, Purchase Count, Item Price, Total Purchase Value
+- [X] Table with the 5 top spenders including: SN, Purchase Count, Average Purchase Price, Total Purchase Value
+- [X] Table with the 5 Most Popular Items by purchase count including: Item ID, Item Name, Purchase Count, Item Price, Total Purchase Value
