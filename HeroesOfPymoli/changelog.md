@@ -25,7 +25,7 @@
 ### *04/09/2021*
 - Computing the purchase analysis by age data
 - Age demographics calculations
-    - [ ] Debugging pending
+    - [X] Debugging pending
 - Age demographics analysis is wrong should be under purchases analysis by age
     - [X] Update comments to be more precise on the calculations performed
     - [X] Insert new cell to perform age demographics analysis
