@@ -32,4 +32,8 @@
     - [X] Update readme with the calculations missing
 - Top 5 spenders analysis completed
 - Top 5 items analysis done
-    - [ ] Debugging pending
+    - [X] Debugging pending
+
+### *04/12/2021*
+- Prices have variation over time, adjusted total purchase value, price column now reflects an average
+- Fixed Average price, total purchase value
