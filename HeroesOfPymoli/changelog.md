@@ -37,3 +37,5 @@
 ### *04/12/2021*
 - Prices have variation over time, adjusted total purchase value, price column now reflects an average
 - Fixed Average price, total purchase value
+- For most popular items, there are 3 items tied with 9 purchases each, adjusted the results dataframe to include all of them
+- Computed the new table with 5 most profitable items
