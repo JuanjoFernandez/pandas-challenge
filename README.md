@@ -1,6 +1,6 @@
 ![Pandas Challenge](Resources/panda_header.png)
 
-## This project consists of two daya analysis: the micro-transactions by players in an independent f2p videogame and some students metric for an education district
+## This project consists of  analyzing the micro-transactions by players in an independent f2p videogame (Heroes of Pymoli)
 
 
 # ***Changelog:***
@@ -9,22 +9,7 @@
 - Created/cloned the repository
 - Created the file structure
 - Added header for readme
-- Created header, [readme](HeroesOfPymoli/readme.md) and [changelog](HeroesOfPymoli/changelog.md) for Heroes Of Pymoli
+- Created header, [readme](HeroesOfPymoli/readme.md) and [changelog](HeroesOfPymoli/changelog.md)
 
-## **03/30/2021**
-- Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
-
-## **04/06/2021**
-- Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
-
-## **04/07/2021**
-- Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
-
-## **04/08/2021**
-- Created header, [readme](PyCitySchools/readme.md) and [changelog](PyCitySchools/changelog.md) for School District project
-- - Advancement on HeroesOfPymoli, details in [changelog](HeroesOfPymoli/changelog.md)
-
-## **04/09/2021**
-- Heroes of Pymoli purchase analysis by age
-- Heroes of Pymoli top 5 spenders
-- Heroes of Pymoli top 5 items
+## **04/12/2021**
+- Done with all the data analysis, moving on to write the report
