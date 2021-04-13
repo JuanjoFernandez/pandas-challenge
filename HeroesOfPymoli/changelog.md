@@ -43,4 +43,4 @@
 - Mapped all the results
 
 ### *04/13/2021*
-- Added the executive report both on [MS-Word](Executive_Report.docx) and [PDF](Executive_Report.pdf) formats
+- Added the executive report both on [MS-Word](../Executive_Report.docx) and [PDF](../Executive_Report.pdf) formats

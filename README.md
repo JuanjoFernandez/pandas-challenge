@@ -13,3 +13,6 @@
 
 ## **04/12/2021**
 - Done with all the data analysis, moving on to write the report
+
+## **04/13/2021**
+- Added the executive report both on [MS-Word](Executive_Report.docx) and [PDF](Executive_Report.pdf) formats
