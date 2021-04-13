@@ -11,7 +11,7 @@
 - Analysis by gender finished
 
 ### *04/06/2021*
-- Obtained average purchase by gendercd
+- Obtained average purchase by gender
 
 ### *04/07/2021*
 - Reformatted the analysis by gender to be on a single table
